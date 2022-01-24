@@ -10,7 +10,7 @@ public class DemoGit {
 
 		System.out.println("UserB second commit-- conflict---");
 		
-          System.out.println("UserA second commit---> conflict");
+        System.out.println("UserA second commit---> conflict");
 
 	}
 
