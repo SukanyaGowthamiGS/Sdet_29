@@ -7,8 +7,11 @@ public class DemoGit {
 	public void samplerepo() {
 		System.out.println("UserA first commit");
 		System.out.println("UserB first commit");
+
 		System.out.println("UserB second commit-- conflict---");
 		
+          System.out.println("UserA second commit---> conflict");
+
 	}
 
 }
