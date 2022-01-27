@@ -12,7 +12,7 @@ public class DemoGit {
 		
         System.out.println("UserA second commit---> conflict");
         
-        System.out.println("UserA --- branch_01 created");
+        System.out.println("UserA --- branch_01 is created ");
         
 
 	}
